@@ -18,7 +18,7 @@ export default function Hero({}) {
             <h2 className="text-sm sm:text-base md:text-lg text-yellow-900 font-serif text-center max-w-xl">A Confeitail é uma confeitaria especializada em doces finos, unindo sofisticação, delicadeza e sabor em cada criação.</h2>
 
         {/* Botão */}
-        <a href="#Products" className="relative z-10 flex items-center justify-center w-41 sm:w-45 bg-rose-300 text-yellow-50 py-3 rounded-2xl transition-colors hover:bg-rose-400 font-serif">Conhecer a Patisserie</a>
+        <a href="#Products" className="relative z-10 flex items-center justify-center w-41 sm:w-45 bg-rose-400 text-yellow-50 py-3 rounded-2xl transition-colors hover:bg-rose-300 font-serif">Conhecer a Patisserie</a>
 
         </div>
  
