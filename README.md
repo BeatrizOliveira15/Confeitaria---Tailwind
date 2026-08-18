@@ -1,44 +1,16 @@
-🍰 Confeitail
+# React + Vite
 
-A Confeitail é uma página web desenvolvida para praticar o desenvolvimento do Tailwind CSS, explorando sua utilização na criação de layouts, estilização e responsividade.
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-✨ Sobre o projeto
-O projeto apresenta:
-Seção Hero com apresentação da confeitaria
-Botão de acesso à Patisserie
-Footer com informações e redes sociais
-Layout responsivo para diferentes tamanhos de tela
-Interface desenvolvida com foco em uma identidade visual delicada
+Currently, two official plugins are available:
 
-🛠️ Tecnologias utilizadas
-React
-Vite
-Tailwind CSS
-React Icons
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-🚀 Como executar
-1. Clone o repositório:
-git clone https://github.com/BeatrizOliveira15/Confeitaria---Tailwind.git
+## React Compiler
 
-2. Entre na pasta do projeto:
-cd Confeitaria---Tailwind/confeitaria-tailwind
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-4. Instale as dependências:
-npm install
+## Expanding the Oxlint configuration
 
-5. Execute o projeto:
-npm run dev
-
-Depois, acesse no navegador o endereço indicado pelo Vite no terminal:
-http://localhost:5173/
-
-📁 Estrutura
-confeitaria-tailwind/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.jsx
-│   └── main.jsx
-├── index.html
-├── package.json
-└── vite.config.js
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
