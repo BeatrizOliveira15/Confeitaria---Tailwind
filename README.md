@@ -29,7 +29,8 @@ npm install
 5. Execute o projeto:
 npm run dev
 
-Depois, acesse no navegador o endereço indicado pelo Vite no terminal.
+Depois, acesse no navegador o endereço indicado pelo Vite no terminal:
+http://localhost:5173/
 
 📁 Estrutura
 confeitaria-tailwind/
