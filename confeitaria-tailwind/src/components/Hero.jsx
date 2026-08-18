@@ -14,7 +14,7 @@ export default function Hero({}) {
         </div>
 
         {/* Descrição */}
-        <div className="relative z-10 flex w-[55%] sm:w-[55%] md:w-[60%] lg:w-[63%] xl:w-[65%] 2xl:w-[70%] flex-col py-2 px-6 sm:px-10 md:px-16 lg:px-20 xl:px-30 gap-8 items-center">
+        <div className="relative z-10 flex w-[55%] sm:w-[55%] md:w-[60%] lg:w-[63%] xl:w-[65%] 2xl:w-[67%] flex-col py-2 px-6 sm:px-10 md:px-16 lg:px-20 xl:px-30 gap-8 items-center">
             <h2 className="text-sm sm:text-base md:text-lg text-yellow-900 font-serif text-center max-w-xl">A Confeitail é uma confeitaria especializada em doces finos, unindo sofisticação, delicadeza e sabor em cada criação.</h2>
 
         {/* Botão */}
